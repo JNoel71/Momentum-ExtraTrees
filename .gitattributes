@@ -13,3 +13,5 @@ Raw[[:space:]]Data/nhl_pbp_20182019.csv filter=lfs diff=lfs merge=lfs -text
 Raw[[:space:]]Data/nhl_pbp_20192020.csv filter=lfs diff=lfs merge=lfs -text
 Raw[[:space:]]Data/nhl_pbp_20202021.csv filter=lfs diff=lfs merge=lfs -text
 Raw[[:space:]]Data/nhl_pbp_20212022.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
